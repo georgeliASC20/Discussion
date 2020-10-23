@@ -2,7 +2,7 @@
 
 Public discussion related to STAT 545 topics will be held in [the Issues](https://github.com/STAT545-UBC/Discussion/issues) of this repository. To start a new thread, create a new Issue. Tag your peers using their handle (`@vincenzocoia`, for example) to get their attention.
 
-__Current students__: If you want to get ahold of members of the teaching team, use these tags:
+__Current students__: I
 
 - `@STAT545-UBC/545a-2019-20-instructors` -- The instructors of STAT 545A.
 - `@STAT545-UBC/545a-2019-20-TA` -- The TA's of STAT 545A.
